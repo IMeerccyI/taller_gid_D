@@ -1,0 +1,15 @@
+C:\Users\Usuariocc\source\repos\xddd\bin\Debug\net6.0\xddd.exe
+C:\Users\Usuariocc\source\repos\xddd\bin\Debug\net6.0\xddd.deps.json
+C:\Users\Usuariocc\source\repos\xddd\bin\Debug\net6.0\xddd.runtimeconfig.json
+C:\Users\Usuariocc\source\repos\xddd\bin\Debug\net6.0\xddd.dll
+C:\Users\Usuariocc\source\repos\xddd\bin\Debug\net6.0\xddd.pdb
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.csproj.AssemblyReference.cache
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.AssemblyInfoInputs.cache
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.AssemblyInfo.cs
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.csproj.CoreCompileInputs.cache
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.dll
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\refint\xddd.dll
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.pdb
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\xddd.genruntimeconfig.cache
+C:\Users\Usuariocc\source\repos\xddd\obj\Debug\net6.0\ref\xddd.dll
